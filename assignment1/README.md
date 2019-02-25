@@ -1,3 +1,1 @@
 Basically it's the first version of Assignment1.
-Though some of the classifiers don't reach the maximum of local optimization...
-But it's enough to have a beginning.
